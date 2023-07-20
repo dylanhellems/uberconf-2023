@@ -10,3 +10,4 @@ Notes from UberConf 2023
 - [Kafka Fundamentals](./kafka.md)
 - [Advanced Git](./git.md)
 - [Improving Software Fuzzing with AI and ML](./fuzzing.md)
+- [Super Charge Your Dev Environment](./super-charged.md)
