@@ -12,3 +12,4 @@ Notes from UberConf 2023
 - [Improving Software Fuzzing with AI and ML](./fuzzing.md)
 - [Super Charge Your Dev Environment](./super-charged.md)
 - [Knowledge Graphs: Architecture and Information](./knowledge-graphs.md)
+- [Love of Lucene](./lucene.md)
