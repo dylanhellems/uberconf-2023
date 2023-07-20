@@ -9,3 +9,4 @@ Notes from UberConf 2023
 - [A Developer's Guide to the Rest of Rest](./rest-of-rest.md)
 - [Kafka Fundamentals](./kafka.md)
 - [Advanced Git](./git.md)
+- [Improving Software Fuzzing with AI and ML](./fuzzing.md)
