@@ -8,3 +8,4 @@ Notes from UberConf 2023
 - [Top Algorithms for Performance and Efficiency](./top-algorithms.md)
 - [A Developer's Guide to the Rest of Rest](./rest-of-rest.md)
 - [Kafka Fundamentals](./kafka.md)
+- [Advanced Git](./git.md)
