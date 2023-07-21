@@ -13,3 +13,4 @@ Notes from UberConf 2023
 - [Super Charge Your Dev Environment](./super-charged.md)
 - [Knowledge Graphs: Architecture and Information](./knowledge-graphs.md)
 - [Love of Lucene](./lucene.md)
+- [Refactoring Code: An Incremental and Purpose Driven Approach](./refactoring)
